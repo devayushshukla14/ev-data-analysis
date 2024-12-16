@@ -14,7 +14,8 @@ This Tableau dashboard comprehensively analyses electric vehicles (EVs) in the U
 
 ## Dashboard Preview
 
-![EV Data Analysis Dashboard](images/ev_dashboard.png)
+![EV Data Analysis](https://github.com/user-attachments/assets/13229eb4-3c7e-4408-84c3-ec1686ff1c39)
+
 
 ## Key Insights
 
