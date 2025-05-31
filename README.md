@@ -1,4 +1,4 @@
-# 🚗 EV Data Analysis Dashboard
+# EV Data Analysis Dashboard
 
 ## Overview
 
