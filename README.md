@@ -43,7 +43,7 @@ This Tableau dashboard comprehensively analyses electric vehicles (EVs) in the U
 
 ## How to Access the Dashboard
 
-- **View the interactive version on Tableau Public**: [https://public.tableau.com/shared/S32BNMMGX?:display_count=n&:origin=viz_share_link](#)  
+- **View the interactive version on Tableau Public**: [https://public.tableau.com/views/EVdataanalysis_17343004513400/EVDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#)  
 - **Download the `.twbx` file** and open it with Tableau Desktop.
 
 ## Data Sources
